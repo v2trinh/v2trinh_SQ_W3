@@ -256,6 +256,8 @@ function preload() {
   missSound = loadSound("assets/sounds/missSwing_sound.mp3");
   // Load image for background
   bgImage = loadImage("assets/images/portal_bg.jpeg");
+  // Load font for title and win screen
+  titleFont = loadFont("assets/fonts/fastlynk.ttf");
 }
 
 // ============================================================
@@ -304,6 +306,7 @@ function setupFighters() {
 // ============================================================
 function draw() {
   background(bgImage);
+  textFont(titleFont);
 
   if (gameState === STATE_START) {
     drawStartScreen();
