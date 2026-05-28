@@ -32,14 +32,9 @@ Press **ENTER** to start or rematch.
 
 ## References
 
-[1]floraphonic. 2024. You Win Sequence 1 | Royalty-free Music. Pixabay.com. Retrieved from https://pixabay.com/sound-effects/musical-you-win-sequence-1-183948/
-
-[2]floraphonic. 2024. Near Miss Swing Whoosh 18 | Royalty-free Music. Pixabay.com. Retrieved from https://pixabay.com/sound-effects/film-special-effects-near-miss-swing-whoosh-18-233442/
-
-[3]Gassstype Studio. 2023. Fastlynk Font. Dafont.com. Retrieved from https://www.dafont.com/fastlynk.font
-
-[4]Chris Kohler. 2011. Review: Portal 2 Marries Indie Design, Blockbuster Budget. Wired. Retrieved from https://www.wired.com/2011/04/portal-2-review/
-
-[5]soraatwod. 2026. Punch. Pixabay.com. Retrieved from https://pixabay.com/sound-effects/punch-416719/
-
-[6]Walen. 2026. Aura Power. Free To Use. Retrieved from https://freetouse.com/music/walen/aura-power
+[1] floraphonic. 2024. You Win Sequence 1 | Royalty-free Music. Pixabay.com. Retrieved from https://pixabay.com/sound-effects/musical-you-win-sequence-1-183948/
+[2] floraphonic. 2024. Near Miss Swing Whoosh 18 | Royalty-free Music. Pixabay.com. Retrieved from https://pixabay.com/sound-effects/film-special-effects-near-miss-swing-whoosh-18-233442/
+[3] Gassstype Studio. 2023. Fastlynk Font. Dafont.com. Retrieved from https://www.dafont.com/fastlynk.font
+[4] Chris Kohler. 2011. Review: Portal 2 Marries Indie Design, Blockbuster Budget. Wired. Retrieved from https://www.wired.com/2011/04/portal-2-review/
+[5] soraatwod. 2026. Punch. Pixabay.com. Retrieved from https://pixabay.com/sound-effects/punch-416719/
+[6] Walen. 2026. Aura Power. Free To Use. Retrieved from https://freetouse.com/music/walen/aura-power
